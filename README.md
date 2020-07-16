@@ -1,7 +1,7 @@
 ## EduChem
 
 Dual-channel, portable, low-cost and customizable potentiostat mainly integrated by commercial off-the-shelf (COTS) electronic components.
-EduChem Application for eduactional purposes.
+EduChem Application for educational purposes.
 
 ## License
 EduChem licensed under the [AGPL](http://www.gnu.org/licenses/agpl.html).
